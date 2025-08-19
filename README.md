@@ -59,10 +59,11 @@ SHAP 模型解釋：
 
 OverallQual, GrLivArea, YearBuilt 等特徵對房價影響最大
 
-Stacking Ensemble：比單一模型表現更穩定
+
 <img width="790" height="940" alt="image" src="https://github.com/user-attachments/assets/c15e5a2c-f6a8-407f-b421-a18e8d0ed09b" />
 
 
+Stacking Ensemble：比單一模型表現更穩定
 🛠 技術棧
 
 Python
